@@ -81,11 +81,11 @@ inputs.invoke({"question": "who is jeff bezos?"})
 ### OUTPUT:
 #### Simple Chain:
 
-![alt text](image-1.png)
+[![alt text](image-1.png)](https://github.com/shoaib3136/genai-lcel-expressions/raw/main/image-1.png)
 
 #### More Complex Chain:
 
-![alt text](image-2.png)
+[![alt text](image-2.png)](https://github.com/shoaib3136/genai-lcel-expressions/raw/main/image-2.png)
 
 ### RESULT:
 Thus, The implementation of a LangChain Expression Language (LCEL) is successfully executed.
